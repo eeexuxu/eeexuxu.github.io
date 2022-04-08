@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Xu Xu' Website Pages
 
-You can use the [editor on GitHub](https://github.com/eeexuxu/eeexuxu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I recieved my PhD degree from The Hong Kong Polytechnic University in 2019. I am currently an Assistant Professor in Xi'an-Jiaotong Liverpool University.
 
 ### Markdown
 
