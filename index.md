@@ -2,6 +2,13 @@
 
 I recieved my PhD degree from The Hong Kong Polytechnic University in 2019. I am currently an Assistant Professor in Xi'an-Jiaotong Liverpool University.
 
+## Work Experience
+
+2019.10-2020.09 Postdoc Fellow, The Hong Kong Polytechnic Univeristy
+2020.09-2020.12
+2021.01-2022.02
+2022.04-Present
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
